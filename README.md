@@ -1,4 +1,4 @@
-### Hello there! 🏃‍♂️
+### Hello there! 🏃
 
 Here's a little bit about me:
 * Currently working at [Piros](https://www.piros.be), a Red Hat Premium Partner 🔴
